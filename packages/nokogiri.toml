@@ -1,0 +1,12 @@
+name = "nokogiri"
+repo = "https://github.com/rubys/spinel-nokogiri"
+
+[[release]]
+version = "0.1.1"
+ref = "c6b7a3690a44ba2d2d9284f82b6f9701a82c57a0"
+
+[[probe]]
+version = "0.1.1"
+spinel = "5fc203aa"
+result = "pass"
+date = "2026-09-26"
