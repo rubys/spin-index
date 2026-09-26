@@ -3,10 +3,10 @@ repo = "https://github.com/rubys/spinel-commonmarker"
 
 [[release]]
 version = "0.1.0"
-ref = "394e2d4bcf8eb87d0e9e0c88310ac50c96d8cafa"
+ref = "9a4b4bf066680090c12fcf46dc008f9ba737721a"
 
 [[probe]]
 version = "0.1.0"
-spinel = "5fc203aa"
+spinel = "7e8e0727"
 result = "pass"
 date = "2026-09-26"
