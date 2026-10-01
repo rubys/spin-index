@@ -10,3 +10,13 @@ version = "0.1.0"
 spinel = "6c8dfa95829b"
 result = "pass"
 date = "2026-07-07"
+
+[[release]]
+version = "0.1.1"
+ref = "d388fceda77585b44b323c833beca971370d6d03"
+
+[[probe]]
+version = "0.1.1"
+spinel = "d90ed5290"
+result = "pass"
+date = "2026-10-01"
