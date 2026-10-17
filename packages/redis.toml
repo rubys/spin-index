@@ -5,6 +5,10 @@ repo = "https://github.com/rubys/spinel-redis"
 version = "0.1.0"
 ref = "4c2ceaba0377e49ae907324f9632f55e874aa808"
 
+[[release]]
+version = "0.2.0"
+ref = "527b3e3d48e1b787e156613255fb511793af7d6d"
+
 [[probe]]
 version = "0.1.0"
 spinel = "6c8dfa95829b"
@@ -20,3 +24,9 @@ version = "0.1.1"
 spinel = "d90ed5290"
 result = "pass"
 date = "2026-10-01"
+
+[[probe]]
+version = "0.2.0"
+spinel = "24fb088eb"
+result = "pass"
+date = "2026-10-17"
